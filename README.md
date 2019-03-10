@@ -1,1 +1,1 @@
-# Encapsulamento-Exemplo
+# Exemplo de encapsulamento com Python
